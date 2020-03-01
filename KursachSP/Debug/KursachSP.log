@@ -1,0 +1,4 @@
+﻿  MainFrom.cpp
+  C:\Users\Akim\source\repos\KursachSP\KursachSP\MainFrom.cpp(499) : warning C4715: EnterWndProc: значение возвращается не при всех путях выполнения
+  C:\Users\Akim\source\repos\KursachSP\KursachSP\MainFrom.cpp(438) : warning C4715: StatWndProc: значение возвращается не при всех путях выполнения
+  KursachSP.vcxproj -> C:\Users\Akim\source\repos\KursachSP\Debug\KursachSP.exe
